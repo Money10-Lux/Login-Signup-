@@ -91,3 +91,12 @@ HTTPS: Deploy with HTTPS in production to secure data transmission.
 # Acknowledgments
 Built as a learning exercise for PHP, MySQL, and web development.
 Uses jQuery for client-side interactivity.
+
+#Screenshots
+Login Page
+![image](https://github.com/user-attachments/assets/9472895a-d0e2-4d72-8705-15c84646f4d1)
+
+SIgnUp Page
+![image](https://github.com/user-attachments/assets/29d09365-05b3-4b91-8a94-b508da76c1c5)
+
+
