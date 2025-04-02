@@ -22,19 +22,33 @@ matatu/
 │   │   └── style.css       # General styles for the application
 
 │   ├── images/
+
 │   │   └── logo.jpeg       # Placeholder logo image
+
 │   └── js/
+
 │       └── register.js     # JavaScript for form toggling
+
 ├── matatus/
+
 │   ├── classes/
+
 │   │   ├── Account.php     # Class for user account management
+
 │   │   └── Constants.php   # Error message constants
+
 │   ├── handler/
+
 │   │   ├── login-handler.php    # Login processing logic
+
 │   │   └── register-handler.php # Registration processing logic
+
 │   └── config.php          # Database connection configuration
+
 ├── index.php               # Main landing page
+
 ├── register.php            # Login and registration page
+
 └── README.md               # This file
 
 # Prerequisites
