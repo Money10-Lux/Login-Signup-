@@ -93,6 +93,7 @@ Built as a learning exercise for PHP, MySQL, and web development.
 Uses jQuery for client-side interactivity.
 
 #Screenshots
+
 Login Page
 ![image](https://github.com/user-attachments/assets/9472895a-d0e2-4d72-8705-15c84646f4d1)
 
