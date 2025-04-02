@@ -14,9 +14,13 @@ Responsive UI: Basic styling with CSS and form toggling using jQuery.
 
 matatu/
 ├── assets/
+
 │   ├── css/
+
 │   │   ├── register.css    # Styles for registration/login forms
+
 │   │   └── style.css       # General styles for the application
+
 │   ├── images/
 │   │   └── logo.jpeg       # Placeholder logo image
 │   └── js/
@@ -42,7 +46,7 @@ Browser: Modern browser with JavaScript enabled
 
 # Setup Instructions
 1. Configure the Database
-   There is .sql file, impoert it to mysql xammp
+   There is matatu.sql file, impoert it to mysql xammp
 2. Deploy to a Web Server
    Place the project folder in your web server’s root directory (e.g., htdocs for XAMPP).
    Start your web server and MySQL service.
